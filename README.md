@@ -18,14 +18,14 @@ The Four Truths express the basic orientation of Buddhism: we **crave and cling*
 which is **dukkha**. But there is a way to liberation from dukkha to the state of **nirvana**, namely following the 
 **Noble Eightfold Path**.
 
-- **The existence of suffering** (dukkha). Dukkha is most commonly translated as "suffering", but this is inaccurate, 
+- **1. The existence of suffering** (dukkha). Dukkha is most commonly translated as "suffering", but this is inaccurate, 
 since it refers not to episodic suffering, but to the intrinsically unsatisfactory nature of temporary states and 
 things, including pleasant but temporary experiences. Dukkha can be translated as "*incapable of satisfying*" 
 instead of suffering.
-- **The cause of suffering** - craving and clinging to impermanent things: sense-pleasures, life, craving to not 
+- **2. The cause of suffering** - craving and clinging to impermanent things: sense-pleasures, life, craving to not 
 experience the painful feelings.
-- **The cessation of suffering** - Nirvana - extinction of craving, peace of mind.
-- **The eightfold path** - the path to Nirvana:
+- **3. The cessation of suffering** - Nirvana - extinction of craving, peace of mind.
+- **4. The eightfold path** - the path to Nirvana:
   - Right view
   - Right thought
   - Right speech
